@@ -1,0 +1,13 @@
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\s22405\Desktop\imgoingfuckinginsane\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
